@@ -1,9 +1,14 @@
+html {
+  background-color: black;
+}
+
 h1,
 h2,
 a,
 p {
   text-align: center;
 }
+
 
 h1 {
   font-family: Verdana;
@@ -12,19 +17,26 @@ h1 {
   color: white;
 }
 
-a {
+#links {
   color: Aquamarine;
   font-size: 16px;
+  text-align: center;
 }
 
 h2 {
   font-family: verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
+ #standard{
+   font-family: verdana;
+   font-size: 21px;
+   color: gray;
+ }
 
 #copyright {
   text-align: right;
   color: gray;
-  
+
 }

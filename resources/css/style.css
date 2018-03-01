@@ -2,7 +2,7 @@
 html {
   background-color: black;
   text-align: center;
-  font-family: verdana;
+  font-family: "verdana", sans-serif;
 }
 
 /*text styles*/
@@ -38,7 +38,7 @@ video {
 p{
   color: gray;
   font-size: 21px;
-  
+
 }
 .footer {
   text-align: right;

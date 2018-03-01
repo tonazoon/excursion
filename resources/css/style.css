@@ -22,7 +22,7 @@ h1 {
 .links {
   color: Aquamarine;
   font-size: 16px;
-  text-align: center;
+  text-decoration: underline;
 }
 
 h2 {
@@ -30,6 +30,10 @@ h2 {
   font-weight: 300;
   font-size: 42px;
   color: white;
+}
+
+video {
+  object-fit: contain;
 }
 
 /*last part*/

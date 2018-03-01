@@ -1,14 +1,11 @@
-/*backround*/
+/*backround and text align for whole page*/
 html {
   background-color: black;
-}
-/*text align*/
-h1,
-h2,
-a,
-p {
   text-align: center;
 }
+
+/*text styles*/
+
 .standard{
   font-family: verdana;
   font-size: 21px;
@@ -22,7 +19,7 @@ h1 {
   color: white;
 }
 
-#links {
+.links {
   color: Aquamarine;
   font-size: 16px;
   text-align: center;
@@ -39,5 +36,4 @@ h2 {
 #copyright {
   text-align: right;
   color: gray;
-
 }
